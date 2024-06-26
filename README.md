@@ -24,6 +24,3 @@
 <br> 
 <br> 
 
-<div align="left"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=vuc48tg5g7xjgukmilq2ukn8v&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=540099&bar_color_cover=false" /></div>  
-
-
